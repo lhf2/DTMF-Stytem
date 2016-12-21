@@ -1,0 +1,22 @@
+.main-cenlist-box{
+    float: left;
+    width: 85%;
+    background: #F4A7C9;
+    border: 1px solid #922254;
+}
+.main-cenlist-box li{
+    width: 20%;
+}
+.main-con-cenlist{
+    overflow: hidden;
+    margin-top:15px;
+}
+.main-cenlist-top{
+    width: 10%;
+    border: 0;
+    float: left;
+    line-height: 118px;
+}
+.main-btn{
+    margin-top: 10px;
+}

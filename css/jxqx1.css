@@ -1,0 +1,60 @@
+.main-box .main-top .main-top-text3{
+    font-size: 16px;
+    line-height: 40px;
+    margin-left: 15px;
+}
+.main-list-text1{
+    margin: 15px 0;
+    margin-left: 30px;
+    font-size: 14px;
+}
+.main-con-list:nth-child(5){
+    margin-top: 0;
+}
+.main-cenlist-top{
+    height: 45px;
+    padding-left: 20px;
+    font-size: 16px;
+    line-height: 45px;
+    border-bottom: 1px solid #AA9DA4;
+}
+.main-cenlist-top .main-list-text1{
+    margin-left: 5px;
+}
+.main-cenlist-box{
+    padding: 10px;
+    overflow: hidden;
+}
+.main-cenlist-box li{
+    width: 16%;
+    text-align: center;
+    margin: 8px 0px;
+    float: left;
+}
+.main-cenlist-box li .cenlist-text1{
+    margin-left: 8px!important;
+}
+.main-box{
+    height:auto!important;
+}
+.main-content{
+    height:auto!important;
+}
+.main-btn {
+    width: 25%;
+    overflow: hidden;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.main-btn .main-btn1 {
+    background: #EFAD4F;
+    box-shadow: 2px 2px 1px #787437;
+    float: left;
+}
+.main-btn .main-btn2 {
+    background: #5BC0DE;
+    box-shadow: 2px 2px 1px #317991;
+    margin-left: 45px;
+    float: left;
+}

@@ -1,0 +1,26 @@
+.main-box .main-top .main-top-text2{
+    color:#988AEC;
+}
+.main-box .main-nav{
+    background: #8475DA;
+}
+.main-content{
+    background: #DAD3FC;
+}
+.main-con-top{
+    border-bottom: 1px solid #C1B7F6;
+}
+.btn{
+    background: #8475DA;
+}
+.active{
+    background: #8475DA;
+    color: #fff;
+    border-color: #8475DA;
+}
+.main-con-list input:focus{
+    outline: 2px solid #8475DA;
+}
+.main-con-list select:focus{
+    outline: 2px solid #8475DA;
+}

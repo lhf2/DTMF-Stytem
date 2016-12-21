@@ -1,0 +1,49 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(5){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box{
+    height: 450px;
+}
+.main-content {
+    height: 375px;
+    background: #ADE0CF;
+}
+.main-box .main-top .main-top-text2{
+    color: #54C7A0;
+}
+.main-box .main-nav{
+    background: #4DCFA1;
+}
+.cx-btn{
+    background: #4DCFA1;
+}
+.btn-group {
+    overflow: hidden;
+    float: left;
+    margin: 5px 15px;
+}
+.btn-list {
+    width: 75px;
+    height: 27px;
+    line-height: 27px;
+    background: #5A93DA;
+    margin-top: 0;
+}
+.active {
+    background: #4DCFA1;
+    color: #fff;
+    border-color: #4DCFA1;
+}
+.main-con-list input:focus{
+    outline: 2px solid #4DCFA1;
+}
+.main-con-list select:focus{
+    outline: 2px solid #4DCFA1;
+}
+.main-con-list textarea:focus{
+    outline: 2px solid #4DCFA1;
+}

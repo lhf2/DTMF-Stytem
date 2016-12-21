@@ -1,0 +1,39 @@
+.main-box .main-top .main-top-text2{
+    color:#E68C71;
+}
+.main-box .main-nav{
+    background: #CB735B;
+}
+.main-content{
+    background: #F9DBD1;
+}
+.main-con-top{
+    border-bottom: 1px solid #CB735B;
+}
+.active{
+    background: #CB735B;
+    color: #fff;
+    border-color: #CB735B;
+}
+.main-con-list input:focus{
+    outline: 2px solid #CB735B;
+}
+.main-con-list select:focus{
+    outline: 2px solid #CB735B;
+}
+.btn{
+    background: #CA745B;
+}
+.btn1{
+    float: right;
+    cursor: pointer;
+    background: #5A93D8;
+    margin-right: 20px;
+    margin-top:-30px;
+}
+.btn a{
+    color: #fff;
+}
+.main-content-center table thead th{
+    width: 10%;
+}

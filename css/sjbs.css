@@ -1,0 +1,33 @@
+.main-box .main-top .main-top-text2{
+    color:#CA6F9A;
+}
+.main-box .main-nav{
+    background: #B44F7B;
+}
+.main-content{
+    background: #F5D3E3;
+}
+.main-con-list input:focus{
+    outline: 2px solid #B44F7B;
+}
+.main-con-list select:focus{
+    outline: 2px solid #B44F7B;
+}
+.btn{
+    background: #B44F7B;
+}
+.main-con-top{
+    border-bottom: 1px solid #DC81AA;
+}
+.btn-list{
+    background: #419BBD;
+    float: left;
+}
+.active {
+    background: #B44F7B;
+    color: #fff;
+    border-color: #B44F7B;
+}
+.content-hide-con{
+    background: #F5D3E3;
+}

@@ -1,0 +1,50 @@
+.main-box .main-top .main-top-text2{
+    color:#CA7096;
+}
+.main-box .main-nav{
+    background: #B34E7A;
+}
+.main-content{
+    width: 100%;
+    height: 375px;
+    margin-top: 10px;
+    border: 1px solid #609F1A;
+    border-left: 0;
+    border-right: 0;
+    background: #F5D3E3;
+}
+.main-link-list{
+    overflow: hidden;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.main-link-list:nth-child(1) .link-icon{
+    float: left;
+    border-left: 10px solid #B34E79;
+    border-bottom: 8px solid transparent;
+    border-top:8px solid transparent;
+}
+.main-link-list:nth-child(1) .link-text{
+    color:#010002;
+    margin-left: 20px;
+}
+.main-link-list .link-icon{
+    float: left;
+    border-left: 10px solid #CF84A5;
+    border-bottom: 8px solid transparent;
+    border-top:8px solid transparent;
+}
+.main-link-list .link-text{
+    color:#6C6A6B;
+    margin-left: 20px;
+}
+.main-link-list:hover .link-icon{
+    cursor: pointer;
+    border-left: 10px solid #B34E79;
+    border-bottom: 8px solid transparent;
+    border-top: 8px solid transparent;
+}
+.main-link-list:hover .link-text{
+    cursor: pointer;
+    color: #010002;
+}

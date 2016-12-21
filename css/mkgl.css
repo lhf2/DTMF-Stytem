@@ -1,0 +1,13 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(2){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-lists .main-list:nth-child(7){
+    background: #D99236;
+}
+.main-lists .main-list:nth-child(7):hover{
+    background: #D3861F;
+}

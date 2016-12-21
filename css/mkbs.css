@@ -1,0 +1,132 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(2){
+    position: relative;
+    background: #EA7D9A;
+}
+.btn-group {
+    overflow: hidden;
+    float: left;
+    margin: 5px 15px;
+}
+.btn-list {
+    width: 75px;
+    height: 27px;
+    line-height: 27px;
+    background: #5A93DA;
+    margin-top: 0;
+    font-size: 12px;
+}
+/*µ¯´° ¿ªÊ¼*/
+.content-hide{
+    width: 100%;
+    display: none;
+    position: absolute;
+    top:0;
+    z-index: 1000;
+}
+.content-hide1{
+    width: 100%;
+    display: none;
+    position: absolute;
+    top:0;
+    z-index: 1000;
+}
+.content-hide .content-hide-top,.content-hide1 .content-hide-top{
+    width: 100%;
+    height: 32px;
+    background: #000;
+    opacity: 0.5;
+}
+.content-hide .content-hide-top img,.content-hide1 .content-hide-top img{
+    float: right;
+    margin-right: 20px;
+}
+.main-nav img{
+    vertical-align: top;
+}
+.main-nav-text{
+    line-height: 25px;
+    margin-left: 15px;
+}
+.img-ling{
+    margin-left: 20px;
+}
+.hide-bg{
+    width: 100%;
+    height: 10px;
+    background: #000;
+    opacity: 0.5;
+}
+.content-hide-con{
+    height: 225px;
+    background: #ABDEF3;
+}
+.content-hide-con .content-hideleft{
+    float: left;
+    width: 40%;
+    height: 150px;
+}
+.content-hide-con .content-hideright{
+    float: left;
+    width: 59%;
+    height: 150px;
+}
+.content-hide-con .main-title{
+    height: 25px;
+    line-height: 25px;
+    padding-left: 20px;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 700;
+    border-bottom: 1px solid #77C4E0;
+}
+.content-hide-con .content-hideleft .main-detail{
+    border-right: 1px solid #78C5E1;
+    padding: 6px 20px;
+}
+.content-hide-con .content-hideleft .main-detail .main-detail-list{
+    margin-top: 15px;
+}
+.main-cl-lists1{
+    margin-top: 12px;
+    overflow: hidden;
+    margin-left: 20px;
+}
+.main-con-list1{
+    float: left;
+    margin-top: 8px;
+}
+.btn-ling-group{
+    overflow: hidden;
+    float: left;
+    margin-left: 90px;
+    margin-top: 15px;
+}
+.btn-ling-group a{
+    display: inline-block;
+    width: 45px;
+    height: 20px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    background: #429CBE;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.btn-ling-group a:nth-child(2){
+    margin-left: 20px;
+}
+.hide-btn{
+    overflow: hidden;
+    margin-top: 30px;
+}
+.main-content-center{
+    position: relative;
+}
+.btn a{
+    color:#fff;
+}
+/*µ¯´° ½áÊø*/

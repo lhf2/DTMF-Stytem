@@ -1,0 +1,112 @@
+/*main ¿ªÊ¼*/
+.main-box .main-top .main-top-text2{
+    color:#5CCAA5;
+}
+.main-box .main-nav{
+    background: #4DCFA1;
+}
+.main-content{
+    width: 100%;
+    height: 375px;
+    margin-top: 10px;
+    border: 1px solid #609F1A;
+    border-left: 0;
+    border-right: 0;
+    background: #ADE0CF;
+}
+.main-content-box{
+    overflow: hidden;
+}
+.main-con-left{
+    width: 470px;
+    height: 265px;
+    overflow: hidden;
+    margin-top: 18px;
+    border-right: 1px solid #4DCFA1;
+    color:#212322;
+    float: left;
+}
+.main-con-list{
+    width: 217px;
+    float: left;
+    margin-top: 10px;
+    height: 24px;
+}
+.main-con-list:nth-child(1),.main-con-list:nth-child(2){
+    margin-top: 0;
+}
+.main-con-list .main-list-text{
+    display: inline-block;
+    width: 85px;
+    text-align: right;
+}
+.main-con-list input{
+    width: 120px;
+    height: 20px;
+}
+.main-con-list select{
+    width: 124px;
+    height: 24px;
+}
+.main-con-list input:focus{
+    outline: 2px solid #4DCFA3;
+}
+.main-con-list select:focus{
+    outline: 2px solid #4DCFA3;
+}
+.main-con-center{
+    width: 245px;
+    height: 265px;
+    overflow: hidden;
+    margin-top: 18px;
+    border-right: 1px solid #4DCFA1;
+    color:#212322;
+    float: left;
+}
+.main-con-center .main-con-lists h3{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.main-con-right{
+    width: 288px;
+    float: left;
+    height: 57px;
+    padding-top: 208px;
+    color:#212322;
+}
+.main-con-right .main-con-list:nth-child(1),.main-con-right .main-con-list:nth-child(2){
+    margin-top: 10px;
+}
+.main-btn{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+.main-btn .btn{
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    float: left;
+    cursor: pointer;
+}
+.main-btn .main-btn1{
+    background: #EFAD4F;
+    box-shadow: 2px 2px 1px #787437;
+}
+.main-btn .main-btn1:hover{
+    background: #D88B1F;
+}
+.main-btn .main-btn2{
+    background: #5BC0DE;
+    box-shadow: 2px 2px 1px #317991;
+    margin-left: 45px;
+}
+.main-btn .main-btn2:hover{
+    background: #2F9DBE;
+}
+/*main ½áÊø*/

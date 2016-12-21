@@ -1,0 +1,104 @@
+.bg{
+    width: 1024px;
+    height: 768px;
+    background:url("../images/login-index.png") no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    position: relative;
+}
+.bg .bg-title{
+    display: inline-block;
+    color: #fff;
+    font-size:40px;
+    font-weight: 700;
+    text-shadow: 2px 2px 0px #84ADCA;
+    position: absolute;
+    top:200px;
+    left: 35%;
+}
+.login-list-box input{
+    width: 225px;
+    height:35px;
+    border-radius: 5px;
+    box-shadow:0 0 5px #C3C3C3 inset;
+    border: 1px solid #9B9B9B;
+}
+.login-list-box .login-text{
+    width: 60px;
+    float: left;
+    line-height: 40px;
+}
+.login-list-box{
+    overflow: hidden;
+}
+.login-list-box:nth-child(2){
+    margin-top: 10px;
+}
+.login-box{
+    position: absolute;
+    top:290px;
+    left: 40%;
+}
+.dl-btn{
+    width: 80px;
+    height: 75px;
+    background: url("../images/dl.png") no-repeat;
+    position: absolute;
+    top:285px;
+    left:74%;
+}
+.dl-btn:hover{
+    background: url("../images/dl-hover.png") no-repeat;
+}
+.dl-btn a{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    line-height: 75px;
+    color:#fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.login-text-detail{
+    position: absolute;
+    left:84%;
+    top:295px;
+}
+.login-text-detail div{
+    margin-top: 2px;
+}
+.login-text-detail div .text-left{
+    display: inline-block;
+    text-align: right;
+    width: 60px;
+}
+.bq-text{
+    color: #3D5F89;
+    position: absolute;
+    top:410px;
+    left: 53%;
+}
+.login-btn{
+    overflow: hidden;
+    position: absolute;
+    top:400px;
+    left: 45%;
+}
+.login-btn-list{
+    width: 110px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 30px;
+    color: #fff;
+    font-size: 14px;
+    float: left;
+}
+.btn-list1{
+    border: 1px solid #E8F4FB;
+    background: linear-gradient(#FFF240 0%,#FFE900 10%,#FFE500 20%,#FFDE00 30%,#FFD100 40%,#FFB100 50%,#FFAC00 60%,#FFA800 70%,#FF9300 80%,#FF8F00 90%,#FF7E00 100%);
+}
+.btn-list2{
+    border: 1px solid #296B89;
+    background: linear-gradient(#82E1E7 0%,#56D2E1 10%,#4EC5E7 20%,#4BC0E9 30%,#48BBEB 40%,#45B6EE 50%,#42B0F0 60%,#41AEF1 70%,#3BA4F6 80%,#39A0F8 90%,#369CF9 100%);
+}

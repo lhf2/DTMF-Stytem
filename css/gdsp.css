@@ -1,0 +1,41 @@
+.main-box .main-top .main-top-text2{
+    color:#73CECF;
+}
+.main-box .main-nav{
+    background: #13A3A4;
+}
+.main-content{
+    background: #CAF4F3;
+}
+.main-con-top{
+    border-bottom: 1px solid #73CECF;
+}
+.active{
+    background: #73CECF;
+    color: #fff;
+    border-color: #73CECF;
+}
+.main-con-list input:focus{
+    outline: 2px solid #73CECF;
+}
+.main-con-list select:focus{
+    outline: 2px solid #73CECF;
+}
+.btn{
+    background: #13A3A4;
+}
+.btn-group{
+    overflow: hidden;
+    float: left;
+    margin: 5px 15px;
+}
+.btn-list{
+    width: 75px;
+    height: 27px;
+    line-height: 27px;
+    background: #5A93DA;
+    margin-top: 0;
+}
+.main-content-center table thead th{
+    width: 10%;
+}

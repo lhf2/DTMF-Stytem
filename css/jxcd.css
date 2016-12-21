@@ -1,0 +1,80 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(2){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box .main-top .main-top-text2{
+    color:#D89338;
+}
+.main-box .main-nav{
+    background: #BB7821;
+}
+.main-content{
+    background: #F6E2C9;
+}
+.main-con-list input:focus{
+    outline: 2px solid #BB7821;
+}
+.main-con-list select:focus{
+    outline: 2px solid #BB7821;
+}
+.main-con-left{
+    border-right:1px solid #ADA1ED;
+    height: 264px;
+}
+.main-content-box{
+    overflow: hidden;
+}
+.btn{
+    background: #E49337;
+}
+.main-con-top{
+    border-bottom: 1px solid #E49337;
+}
+.btn-list{
+    background: #419BBD;
+}
+.active {
+    background: #CB735B;
+    color: #fff;
+    border-color: #CB735B;
+}
+.content-hide-con{
+    background: #F9DBD1;
+}
+.hide-text{
+    text-align: center;
+    line-height: 165px;
+    font-size:16px;
+}
+.hide-btn{
+    overflow: hidden;
+    margin: 0 auto;
+    width: 20%;
+}
+.xg-btn{
+    margin-left: 20px;
+    float: left;
+}
+.xg-btn:nth-child(2){
+    background: #E49538;
+}
+.xg-btn:nth-child(2):hover{
+    background: #E58117;
+}
+.hide-btn{
+    width: 704px;
+    padding:0 210px;
+}
+.hide-btn .btn{
+    margin-top: 20px;
+    margin-left: 80px;
+    background: #3794E4;
+    font-size: 12px;
+    float: left;
+}
+.hide-btn .btn:nth-child(1),.hide-btn .btn:nth-child(5),.hide-btn .btn:nth-child(9){
+    margin-left: 0;
+}

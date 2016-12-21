@@ -1,0 +1,124 @@
+.main-box{
+    height: 450px!important;
+}
+.main-content{
+    height: 375px!important;
+}
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(3){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box .main-top .main-top-text2{
+    color: #A192EF;
+}
+.main-box .main-nav{
+    background: #8475DA;
+}
+.main-con-list input:focus{
+    outline: 2px solid #8475DA;
+}
+.main-con-list select:focus{
+    outline: 2px solid #8475DA;
+}
+.main-content{
+    background: #DBD4FE;
+}
+.main-con-top{
+    height: 20px;
+}
+.btn{
+    margin-top: -2px;
+    background: #8475DA;
+}
+.btn-group {
+    overflow: hidden;
+    float: left;
+    margin: 5px 15px;
+}
+.btn-list {
+    width: 75px;
+    height: 27px;
+    line-height: 27px;
+    background: #5A93DA;
+    margin-top: 0;
+    font-size: 12px;
+}
+.active {
+    background: #8475DA;
+    color: #fff;
+    border-color: #8475DA;
+}
+.content-hide .content-hide-top, .content-hide1 .content-hide-top {
+    width: 100%;
+    height: 32px;
+    background: #000;
+    opacity: 0.5;
+}
+.content-hide .content-hide-top img, .content-hide1 .content-hide-top img {
+    float: right;
+    margin-right: 20px;
+}
+.main-box .main-nav {
+    height: 25px;
+    width: 100%;
+    background: #8475DA;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 25px;
+}
+.main-nav img {
+    vertical-align: top;
+}
+.img-ling {
+    margin-left: 20px;
+}
+.hide-bg {
+    width: 100%;
+    height: 10px;
+    background: #000;
+    opacity: 0.5;
+}
+.content-hide-con {
+    height: 257px;
+    background: #DBD4FE;
+}
+.content-hide-con .main-cl-lists{
+    width: 30%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.content-hide-con .main-cl-lists .main-con-list{
+    width: 100%;
+    margin-top: 15px;
+}
+.main-btn{
+    /*overflow: hidden;*/
+    width: 28%;
+    height: 45px;
+    margin:0 auto;
+    margin-top: 10px;
+}
+.main-btn .main-btn1 {
+    float: left;
+    background: #EFAD4F;
+    box-shadow: 2px 2px 1px #787437;
+}
+.main-btn .main-btn2 {
+    float: left;
+    background: #5BC0DE;
+    box-shadow: 2px 2px 1px #317991;
+    margin-left: 35px;
+}
+.main-content-center {
+    position: relative;
+}
+.content-hide1{
+    width: 100%;
+    display: none;
+    position: absolute;
+    top: 0;
+    z-index: 1000;
+}

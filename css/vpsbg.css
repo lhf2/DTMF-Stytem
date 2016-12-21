@@ -1,0 +1,126 @@
+.main-box .main-top .main-top-text2{
+    color:#CA7096;
+}
+.main-box .main-nav{
+    background: #B34E7A;
+}
+.main-content{
+    width: 100%;
+    height: 375px;
+    margin-top: 10px;
+    border: 1px solid #609F1A;
+    border-left: 0;
+    border-right: 0;
+    background: #F5D3E3;
+}
+.main-con-top{
+    width: 100%;
+    height: 62px;
+    padding: 10px 0;
+    border-bottom: 1px solid #B34E7A;
+}
+.main-title{
+    width: 100%;
+    margin-left: 20px;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 700;
+}
+.main-title1{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: #222222;
+    font-size: 12px;
+    font-weight: 700;
+}
+.main-con-list{
+    float: left;
+    margin-top: 8px;
+}
+.main-con-list .main-list-text{
+    display: inline-block;
+    width: 85px;
+    text-align: right;
+}
+.ling-con-list{
+    margin-left: 30px;
+}
+.main-con-list input{
+    width: 120px;
+    height: 20px;
+}
+.main-con-list select{
+    width: 124px;
+    height: 22px;
+}
+.main-con-list input:focus{
+    outline: 2px solid #B34E7A;
+}
+.main-con-list select:focus{
+    outline: 2px solid #B34E7A;
+}
+.main-con-list textarea:focus{
+    outline: 2px solid #B34E7A;
+}
+.btn{
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    float: right;
+    cursor: pointer;
+    background: #B44F7B;
+    margin-right: 20px;
+    margin-top: 7px;
+}
+.main-conbox{
+    overflow: hidden;
+}
+.main-con-left{
+    width: 50%;
+    height: 225px;
+    float: left;
+    border-right: 1px solid #B44F7B;
+    padding-top: 15px;
+}
+.main-con-right{
+    width: 49%;
+    height: 225px;
+    float: left;
+    padding-top: 15px;
+}
+.main-detail{
+    overflow: hidden;
+}
+.main-detail-list{
+    margin-left: 55px;
+    margin-top: 15px;
+}
+.main-text-ling{
+    vertical-align: top;
+}
+.con-list-ling{
+    margin-top: -75px;
+}
+.con-list-ling1{
+    margin-top: -40px;
+}
+.main-btn {
+    width: 22%;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.main-btn .main-btn1 {
+    float: left;
+    background: #EFAD4F;
+    box-shadow: 2px 2px 1px #787437;
+}
+.main-btn .main-btn2 {
+    float: left;
+    background: #5BC0DE;
+    box-shadow: 2px 2px 1px #317991;
+    margin-left: 35px;
+}

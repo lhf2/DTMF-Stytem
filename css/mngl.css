@@ -1,0 +1,29 @@
+.main-box .main-top .main-top-text2{
+    color:#73CECF;
+}
+.main-box .main-nav{
+    background: #13A3A4;
+}
+.main-content{
+    background: #CAF4F3;
+}
+.main-con-top{
+    border-bottom:1px solid #40C6C7;
+}
+.cx-btn{
+    background: #13A3A4;
+}
+.main-con-list input:focus{
+    outline: 2px solid #13A3A4;
+}
+.main-con-list select:focus{
+    outline: 2px solid #13A3A4;
+}
+.content-hide-con{
+    background: #CAF4F3;
+}
+.active{
+    background: #13A3A4;
+    color: #fff;
+    border-color: #13A3A4;
+}

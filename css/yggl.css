@@ -1,0 +1,77 @@
+.main-box{
+    height: 450px!important;
+}
+.main-content{
+    height: 375px!important;
+}
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(3){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box .main-top .main-top-text2 {
+    color: #E58B70;
+}
+.main-box .main-nav{
+    background: #CB735B;
+}
+.main-content{
+    background:#F9DBD1;
+}
+.main-con-top {
+    width: 100%;
+    height: 52px;
+    padding: 15px 0;
+    border-bottom: 1px solid #CB735B;
+}
+.btn1 {
+    float: right;
+    cursor: pointer;
+    background: #CB735B;
+    margin-right: 20px;
+    margin-top: -30px;
+}
+.btn2{
+    margin-top: 5px!important;
+    background: #5A93DA;
+}
+.main-content-center table thead th {
+    width: 8.3%;
+    height: 30px!important;
+}
+.active {
+    background: #CB735B;
+    color: #fff;
+    border-color: #CB735B;
+}
+.content-hide-con .main-cl-lists{
+    width: 50%;
+}
+.content-hide-con .main-cl-lists .main-con-list{
+    float: left;
+    width: auto!important;
+    margin-top: 10px;
+}
+.content-hide-con .main-cl-lists .main-con-list:nth-last-child(1){
+    margin-top: -30px;
+}
+.main-con-list input:focus{
+    outline: 2px solid #CB735B;
+}
+.main-con-list select:focus{
+    outline: 2px solid #CB735B;
+}
+.main-con-list textarea:focus{
+    outline: 2px solid #CB735B;
+}
+.main-litext-ling{
+    vertical-align: top;
+}
+.main-btn{
+    margin-top: 20px;
+}
+.content-hide-con{
+    background: #F9DBD1;
+}

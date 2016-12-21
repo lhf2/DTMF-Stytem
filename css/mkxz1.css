@@ -1,0 +1,32 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(2){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box .main-top .main-top-text2{
+    color:#51C89E;
+}
+.main-box .main-nav{
+    background: #4DCFA1;
+}
+.main-content{
+    background: #ACE1CF;
+}
+.main-con-list input:focus{
+    outline: 2px solid #4DCFA1;
+}
+.main-con-list select:focus{
+    outline: 2px solid #4DCFA1;
+}
+.main-con-left{
+    border-right:1px solid #4DCFA1;
+    height: 264px;
+}
+.main-content-box{
+    overflow: hidden;
+}
+.main-con-right .main-con-lists .main-con-list{
+    width: 100%!important;
+}

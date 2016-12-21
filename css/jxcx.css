@@ -1,0 +1,145 @@
+/*main ¿ªÊ¼*/
+.main-content{
+    width: 100%;
+    /*height: 375px;*/
+    margin-top: 10px;
+    border: 1px solid #609F1A;
+    border-left: 0;
+    border-right: 0;
+    background: #ABDEF3;
+}
+.main-con-top{
+    width: 100%;
+    height: 52px;
+    padding: 15px 0;
+    border-bottom: 1px solid #65B0CD;
+}
+.main-con-list{
+    height: 24px;
+    float: left;
+}
+.main-con-list:nth-child(5),.main-con-list:nth-child(6),.main-con-list:nth-child(7),.main-con-list:nth-child(8){
+    margin-top: 10px;
+}
+.main-con-list .main-list-text{
+    display: inline-block;
+    width: 85px;
+    text-align: right;
+}
+.main-con-list input{
+    width: 120px;
+    height: 20px;
+}
+.main-con-list select{
+    width: 124px;
+    height: 24px;
+}
+.main-con-list input:focus{
+    outline: 2px solid #419BBD;
+}
+.main-con-list select:focus{
+    outline: 2px solid #419BBD;
+}
+.btn{
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    float: right;
+    cursor: pointer;
+    background: #419BBD;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.main-content-center table{
+    text-align: center;
+}
+.main-content-center table thead{
+    background: #fff;
+    height: 30px!important;
+    color:#343434;
+}
+.main-content-center table thead th{
+    width: 9.1%;
+    height: 30px!important;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.main-content-center table tbody tr{
+    height: 30px;
+    border-bottom: 1px solid #EFEFEF;
+}
+.xg-btn{
+    display: inline-block;
+    width: 50px;
+    height: 22px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    line-height: 22px;
+    font-size: 12px;
+    cursor: pointer;
+    background: #5BC0DE;
+    text-decoration: underline;
+}
+.xg-btn:hover{
+    background: #418BCA;
+}
+.normal{
+    color: #333333;
+}
+.exit{
+    color:#EB9C03;
+}
+.close{
+    color: #E0471E;
+}
+.page-box{
+    height: 20px;
+    padding: 18px 0;
+    color: #666666;
+    font-size: 14px;
+}
+.ling{
+    color: #E75F49;
+}
+.page-box{
+    overflow: hidden;
+    width: 60%;
+    margin: 0 auto;
+}
+.page-text{
+    float: left;
+    line-height: 31px;
+    margin-right: 20px;
+}
+.page-lists{
+    overflow: hidden;
+    float: left;
+}
+.page-list{
+    width: auto;
+    float: left;
+    border:1px solid #E5E5E5;
+    background: #FAFAFA;
+    padding: 5px;
+    margin: 0 2px;
+}
+.num{
+    height: 29px;
+    width: 29px;
+    text-align: center;
+    line-height: 29px;
+    padding: 0;
+}
+.active{
+    background: #429CBE;
+    color: #fff;
+    border-color: #429CBE;
+}
+/*main ½áÊø*/

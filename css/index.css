@@ -1,0 +1,82 @@
+.bg{
+    width: 1200px;
+    height: 768px;
+    background:url("../images/index.png") no-repeat ;
+    background-size: cover;
+    margin: 0 auto;
+    position: relative;
+}
+.bg .bg-title{
+    display: inline-block;
+    color: green;
+    font-size:40px;
+    font-weight: 700;
+    background-image: -webkit-gradient(linear, 0 0, 0 bottom, from(#FDFEFF), to(#B7D2E1));
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color:#0E4270;
+    -webkit-text-stroke-width: 1px;
+    position: absolute;
+    top:220px;
+    left: 53%;
+}
+.login-list-box input{
+    width: 210px;
+    height: 25px;
+    border-radius: 5px;
+}
+.login-list-box .login-text{
+    width: 55px;
+    float: left;
+    line-height: 30px;
+}
+.login-list-box{
+    overflow: hidden;
+}
+.login-list-box:nth-child(2){
+    margin-top: 10px;
+}
+.login-box{
+    position: absolute;
+    top:330px;
+    left: 47%;
+}
+.dl-btn{
+    width: 80px;
+    height: 75px;
+    background: url("../images/dl.png") no-repeat;
+    position: absolute;
+    top:325px;
+    left:74%;
+}
+.dl-btn:hover{
+    background: url("../images/dl-hover.png") no-repeat;
+}
+.dl-btn a{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    line-height: 75px;
+    color:#fff;
+    font-size: 20px;
+    text-decoration: none;
+}
+.login-text-detail{
+    position: absolute;
+    left:84%;
+    top:350px;
+}
+.login-text-detail div{
+    margin-top: 2px;
+}
+.login-text-detail div .text-left{
+    display: inline-block;
+    text-align: right;
+    width: 60px;
+}
+.bq-text{
+    color: #3D5F89;
+    position: absolute;
+    top:410px;
+    left: 53%;
+}

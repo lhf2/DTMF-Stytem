@@ -1,0 +1,59 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(2){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box .main-top .main-top-text2{
+    color:#E6967D;
+}
+.main-box .main-nav{
+    background: #CB735B;
+}
+.main-content{
+    background: #F9DBD1;
+}
+.main-con-list input:focus{
+    outline: 2px solid #CB735B;
+}
+.main-con-list select:focus{
+    outline: 2px solid #CB735B;
+}
+.main-con-left{
+    border-right:1px solid #ADA1ED;
+    height: 264px;
+}
+.main-content-box{
+    overflow: hidden;
+}
+.btn{
+    background: #CB735B;
+}
+.main-con-top{
+    border-bottom: 1px solid #E09C89;
+}
+.btn-list{
+    background: #419BBD;
+}
+.active {
+    background: #CB735B;
+    color: #fff;
+    border-color: #CB735B;
+}
+.content-hide-con{
+    background: #F9DBD1;
+}
+.hide-text{
+    text-align: center;
+    line-height: 165px;
+    font-size:16px;
+}
+.hide-btn{
+    margin-top: 10px;
+}
+.hide-btn1{
+    overflow: hidden;
+    margin: 0 auto;
+    width: 20%;
+}

@@ -1,0 +1,32 @@
+.nav-box .nav-list:nth-child(1){
+    background: #61697C;
+}
+.nav-box .nav-list:nth-child(2){
+    position: relative;
+    background: #EA7D9A;
+}
+.main-box .main-top .main-top-text2{
+    color:#CA6F9A;
+}
+.main-box .main-nav{
+    background: #B44F7B;
+}
+.main-content{
+    background: #F5D3E3;
+}
+.main-con-list input:focus{
+    outline: 2px solid #B44F7B;
+}
+.main-con-list select:focus{
+    outline: 2px solid #B44F7B;
+}
+.main-con-left{
+    border-right:1px solid #B44F7B;
+    height: 264px;
+}
+.main-content-box{
+    overflow: hidden;
+}
+.main-con-right .main-con-lists .main-con-list{
+    width: 100%!important;
+}

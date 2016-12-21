@@ -1,0 +1,103 @@
+
+/*main ¿ªÊ¼*/
+.main-box{
+    width: 1024px;
+    margin: 0 auto;
+    height: 450px;
+    background: #ffffff;
+    margin-top: 24px;
+}
+.main-lists{
+    padding:30px 0;
+}
+.main-lists .main-list{
+    width: 174px;
+    height: 174px;
+    float: left;
+    border-radius: 5px;
+    margin-left: 65px;
+    text-align: center;
+}
+.main-lists .main-list:nth-child(1){
+    background: #53C7A0;
+}
+.main-lists .main-list:nth-child(1):hover{
+    background: #1CC68E;
+}
+.main-lists .main-list:nth-child(2){
+    background: #65B0CD;
+}
+.main-lists .main-list:nth-child(2):hover{
+    background: #5DA0B9;
+}
+.main-lists .main-list:nth-child(3){
+    background: #CA7096;
+}
+.main-lists .main-list:nth-child(3):hover{
+    background: #CB5D8B;
+}
+.main-lists .main-list:nth-child(4){
+    background: #988AEC;
+}
+.main-lists .main-list:nth-child(4):hover{
+    background: #8979EA;
+}
+.main-lists .main-list:nth-child(5){
+    background: #E68C72;
+    margin-top: 45px;
+}
+.main-lists .main-list:nth-child(5):hover{
+    background: #E57E5F;
+}
+.main-lists .main-list:nth-child(6){
+    background: #73CECF;
+    margin-top: 45px;
+}
+.main-lists .main-list:nth-child(6):hover {
+    background: #58C9C9;
+}
+.main-lists .main-list:nth-child(7){
+    background: #CF8272;
+    margin-top: 45px;
+}
+.main-lists .main-list:nth-child(7):hover{
+    background: #CE7664;
+}
+.main-lists .main-list .main-text{
+    font-size: 16px;
+    color: #ffffff;
+    height: 45px;
+    line-height: 45px;
+}
+.main-lists .main-list:nth-child(1) .main-text{
+    border-bottom: 1px solid #59AC98;
+}
+.main-lists .main-list:nth-child(2) .main-text{
+    border-bottom: 1px solid #649CB5;
+}
+.main-lists .main-list:nth-child(3) .main-text{
+    border-bottom: 1px solid #AD6D8F;
+}
+.main-lists .main-list:nth-child(4) .main-text{
+    border-bottom: 1px solid #8981CC;
+}
+.main-lists .main-list:nth-child(5) .main-text{
+    border-bottom: 1px solid #BE8277;
+}
+.main-lists .main-list:nth-child(6) .main-text{
+    border-bottom: 1px solid #6EB1B7;
+}
+.main-lists .main-list:nth-child(7) .main-text{
+     border-bottom: 1px solid #B07B77;
+ }
+.main-lists .main-list .main-img{
+    display:table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 174px;
+    height: 129px;
+}
+.main-lists .main-list .main-img img{
+    vertical-align: middle;
+}
+/*main ½áÊø*/
